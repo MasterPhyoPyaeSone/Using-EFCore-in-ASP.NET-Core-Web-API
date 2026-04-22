@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MiniPOS.Database/MiniPOS.Database.csproj" />
+  <Project Path="MiniPOS.WebAPI/MiniPOS.WebAPI.csproj" />
+</Solution>

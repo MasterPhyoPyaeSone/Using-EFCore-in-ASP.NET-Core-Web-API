@@ -1,0 +1,14 @@
+/Users/macbookpro/MiniPOS/MiniPOS.Database/bin/Debug/net10.0/MiniPOS.Database.deps.json
+/Users/macbookpro/MiniPOS/MiniPOS.Database/bin/Debug/net10.0/MiniPOS.Database.runtimeconfig.json
+/Users/macbookpro/MiniPOS/MiniPOS.Database/bin/Debug/net10.0/MiniPOS.Database.dll
+/Users/macbookpro/MiniPOS/MiniPOS.Database/bin/Debug/net10.0/MiniPOS.Database.pdb
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/MiniPOS.Database.csproj.AssemblyReference.cache
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/MiniPOS.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/MiniPOS.Database.AssemblyInfoInputs.cache
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/MiniPOS.Database.AssemblyInfo.cs
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/MiniPOS.Database.csproj.CoreCompileInputs.cache
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/MiniPOS.Database.dll
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/refint/MiniPOS.Database.dll
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/MiniPOS.Database.pdb
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/MiniPOS.Database.genruntimeconfig.cache
+/Users/macbookpro/MiniPOS/MiniPOS.Database/obj/Debug/net10.0/ref/MiniPOS.Database.dll
