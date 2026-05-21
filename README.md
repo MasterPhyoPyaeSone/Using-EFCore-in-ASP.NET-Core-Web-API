@@ -27,12 +27,6 @@ Install Nuget Package (MiniPOS.Database )
 
 - with Scaffold Command to auto Create model
 
-## Connection 
-
-- appsetting.json 
- "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost,1433;Database=MiniPOS;Trusted_Connection=True;TrustServerCertificate=True;User Id=sa;Password=pps@Password123;"
-  },
 
 
 
