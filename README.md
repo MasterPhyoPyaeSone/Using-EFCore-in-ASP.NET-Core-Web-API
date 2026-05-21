@@ -20,9 +20,7 @@ Install Nuget Package (MiniPOS.Database )
 - dotnet add package Microsoft.EntityFrameworkCore.Tools
 ```
 
-##  Scaffold Command: ( only single line )
 
-dotnet ef dbcontext scaffold 'Server=localhost,1433;Database=MiniPOS;User Id=sa;Password=pps@Password123;TrustServerCertificate=True;' Microsoft.EntityFrameworkCore.SqlServer --output-dir AppDbContextModels --context AppDbContext --force
     
 
 ## Create Database, Table
